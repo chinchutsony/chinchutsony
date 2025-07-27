@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Chinchu Thurukadayil Sony
 
-<!--
-**chinchutsony/chinchutsony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Artificial Intelligence | 📍 Belfast, UK  
+💡 AI & Data Analyst | Passionate about turning data into actionable insights  
+🛠 Python | SQL | Tableau | TensorFlow | Hadoop | Azure AI  
+📊 Skilled in machine learning, data visualization & big data analytics  
+📫 Reach me at: chinchutsony@gmail.com  
+🔗 [LinkedIn]www.linkedin.com/in/chinchu-thurukadayil-sony-83241a113| [Kaggle]([https://www.kaggle.com/chinchutsony]()
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **CNN Food Classification** – Image classification using TensorFlow & Keras 
+- **Global Superstore Dashboard** – Interactive Tableau dashboards for sales insights 
+- **Asthma & Air Pollution Analysis** – Big data insights using Hadoop
+
+
+
+
+
+### 💬 Let's Connect!
+I’m always open to new opportunities and collaborations in AI, data, or software development.
